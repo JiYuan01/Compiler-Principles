@@ -1,9 +1,0 @@
-P→bSe
-S→AS1    
-S1→S|e
-A→i=E;
-E→TE'    
-E'→+TE’|-TE’|e
-T→FT'
-T'→*FT’|/FT’|e
-F→(E)|i
